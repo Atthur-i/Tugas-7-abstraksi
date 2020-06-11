@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas abstraction", "Tugas abstraction.csproj", "{A32BF496-8714-4CAD-A767-6CF85676782E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32BF496-8714-4CAD-A767-6CF85676782E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32BF496-8714-4CAD-A767-6CF85676782E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32BF496-8714-4CAD-A767-6CF85676782E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32BF496-8714-4CAD-A767-6CF85676782E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF0CC8C8-CE0B-41E4-93F2-8096F46D7E98}
+	EndGlobalSection
+EndGlobal
